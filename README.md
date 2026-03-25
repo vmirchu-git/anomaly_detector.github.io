@@ -72,10 +72,6 @@ Develop an ML tool that automatically detects anomalous changes in chatbot metri
 - Overall increase in chatbot accuracy and consistency.  
 - Built visualizations for trends and anomaly monitoring across intents.
 
-### Data Pipeline
-
-![Pipeline diagram](assets/pipeline_gb_version.png)
-
 ---
 
 ## 🇷🇺 Русский вариант 
@@ -123,7 +119,3 @@ Develop an ML tool that automatically detects anomalous changes in chatbot metri
 - Снижение случаев критических падений качества.  
 - Автоматизация рутинного мониторинга.  
 - Повышение общей точности и стабильности чат-бота.  
-
-### Пайплайн
-
-![Pipeline diagram](assets/pipeline_ru_version.png)
