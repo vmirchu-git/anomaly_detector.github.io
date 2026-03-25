@@ -3,8 +3,6 @@
 ---
 
 ## 🇬🇧 English version
-**Tech stack:** Python • pandas • numpy • scikit-learn • matplotlib • seaborn • statsmodels • Jupyter Notebook • Git • Airflow • Metabase  
-
 ### Context
 Before the project, chatbot quality was manually assessed using intent accuracy, user CSAT scores, and operational metrics. Data aggregation was irregular and analysis took up to 3–4 hours per cycle.  
 
